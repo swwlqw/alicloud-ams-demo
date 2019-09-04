@@ -1,4 +1,6 @@
-## 移动推送OpenApi2.0 SDK使用示例程序
+## 该Demo已废弃，强烈建议您使用[OpenAPI Explorer](https://api.aliyun.com/#/?product=Push&api=Push)，可以自动生成各语言的代码示例。
+
+### 移动推送OpenApi2.0 SDK使用示例程序
 
 1 : 安装对应的版本的SDK
 
